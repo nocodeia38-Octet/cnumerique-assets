@@ -1,2 +1,2 @@
 # cnumerique-assets
-Images publiques 
+Images publiques et logos CNUMERIQUE
