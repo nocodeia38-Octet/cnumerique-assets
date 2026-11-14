@@ -1,3 +1,0 @@
-PALETTE COULEUR LOGO CNUMERIQUE 2026 V2
-
-Grille de correspondance des teintes (Palette RAL Classic)Les dégradés numériques s'expriment en valeurs RVB/HEX sur écran. Pour vos besoins d'impression physique, de signalétique, de goodies ou d'aménagements de locaux, voici l'équivalence la plus fidèle dans le nuancier RAL Classic :Élément / Zone du LogoCode HEXÉquivalence RAL ClassicNom officiel RALTouches / Accents Verts (Haut et bas du C)#7EBAB5RAL 6027Vert clair (Light green)Bleu Lumineux / Médian (Rubans supérieurs)#007CB0RAL 5015Bleu ciel (Sky blue)Bleu Profond / Structure (Corps du C)#005B8CRAL 5017 / RAL 5005Bleu signalisation / Bleu de sécuritéTypographie (Texte Numérique)#0B1C3CRAL 5011Bleu acier (Steel blue)
